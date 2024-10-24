@@ -3,7 +3,7 @@
 ## Ingredients
 * Avocados
 * Cilantro
-* Olives
+* Onions
 * Lime
 * Jelly Beans
 * Chocolate
