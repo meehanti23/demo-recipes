@@ -8,3 +8,4 @@
 * Jelly Beans
 
 ## Directions
+* Mash up avocados and jelly beans
