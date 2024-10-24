@@ -5,6 +5,7 @@
 * Cilantro
 * Olives
 * Lime
+* Oranges
 * Jelly Beans
 * Chocolate
 
